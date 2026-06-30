@@ -4,7 +4,7 @@ body {
   background-position: center;            
   background-attachment: fixed;           /* bckground stays fixed*/
   background-repeat: no-repeat;           
-  min-height: 100vh;                      
+  min-height: 99vh;                      
 }
 
 /* style for skills,ach,contacts */
